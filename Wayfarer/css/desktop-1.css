@@ -1,0 +1,964 @@
+/* screen - desktop-1 */
+.desktop-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4020px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1719px;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group3 {
+  height: 84px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .navs {
+  align-items: flex-end;
+  background-color: var(--fun-blue);
+  display: flex;
+  height: 84px;
+  left: 0;
+  padding: 15px 142px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .wayfarer-white-1-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.desktop-1 .nav-links {
+  align-items: center;
+  display: flex;
+  margin-bottom: 3px;
+  margin-left: 442px;
+  min-width: 573px;
+}
+
+.desktop-1 .place {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 47px;
+}
+
+.desktop-1 .frame-2 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-left: 32px;
+  min-width: 183px;
+}
+
+.desktop-1 .popular-destinations {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 163px;
+}
+
+.desktop-1 .akar-iconschevron-down {
+  height: 12px;
+  margin-left: 8px;
+  width: 12px;
+}
+
+.desktop-1 .accommodations {
+  letter-spacing: 0;
+  margin-left: 32px;
+  min-height: 22px;
+  min-width: 135px;
+}
+
+.desktop-1 .login {
+  letter-spacing: 0;
+  margin-left: 32px;
+  min-height: 22px;
+  min-width: 42px;
+}
+
+.desktop-1 .frame-40 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 42px;
+  margin-left: 32px;
+  min-width: 123px;
+  padding: 0 32px;
+}
+
+.desktop-1 .sign-up {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 59px;
+}
+
+.desktop-1 .wayfarer-white-2 {
+  height: 34px;
+  left: 203px;
+  position: absolute;
+  top: 31px;
+  width: 151px;
+}
+
+.desktop-1 .place-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 47px;
+  transition: all 0.2s ease;
+}
+
+.desktop-1 .place-1:hover {
+  color: #000000
+}
+
+.desktop-1 .popular-destinations-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 163px;
+  transition: all 0.2s ease;
+}
+
+.desktop-1 .popular-destinations-1:hover {
+  color: #000000
+}
+
+.desktop-1 .akar-iconschevron-down-1 {
+  cursor: pointer;
+  height: 12px;
+  margin-left: 8px;
+  transition: all 0.2s ease;
+  width: 12px;
+}
+
+.desktop-1 .akar-iconschevron-down-1:hover {
+  background-color: #000000
+}
+
+.desktop-1 .accommodations-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  min-height: 22px;
+  min-width: 135px;
+  transition: all 0.2s ease;
+}
+
+.desktop-1 .accommodations-1:hover {
+  color: #000000
+}
+
+.desktop-1 .login-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  min-height: 22px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+}
+
+.desktop-1 .login-1:hover {
+  color: #080808
+}
+
+.desktop-1 .frame-40-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 42px;
+  margin-left: 32px;
+  min-width: 123px;
+  padding: 0 32px;
+  transition: all 0.2s ease;
+}
+
+.desktop-1 .frame-40-1:hover {
+  background-color: #898888
+}
+
+.desktop-1 .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(../img/norway-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 600px;
+  padding: 101px 146px;
+  width: 1440px;
+}
+
+.desktop-1 .discover-new-destinations {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 66px;
+  text-shadow: 0px 1px 1px #00000040;
+  width: 657px;
+}
+
+.desktop-1 .wayfarer-makes-it-si {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 4px;
+  margin-top: 7px;
+  min-height: 102px;
+  width: 555px;
+}
+
+.desktop-1 .overlap-group10 {
+  border-radius: 10px;
+  height: 47px;
+  margin-left: 4px;
+  margin-top: 32px;
+  position: relative;
+  width: 458px;
+}
+
+.desktop-1 .search-box {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  display: flex;
+  height: 47px;
+  left: 0;
+  min-width: 458px;
+  padding: 0 31.7px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop-1 .vector {
+  height: 19px;
+  width: 18px;
+}
+
+.desktop-1 .search-for-anything {
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 22px;
+  min-width: 146px;
+}
+
+.desktop-1 .frame-41 {
+  align-items: center;
+  background-color: #ffae30;
+  border-radius: 9px;
+  display: flex;
+  height: 45px;
+  left: 323px;
+  min-width: 134px;
+  padding: 0 16.5px;
+  position: absolute;
+  top: 1px;
+}
+
+.desktop-1 .search {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.desktop-1 .wayfarer-can-help-ge {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 86px;
+  min-height: 84px;
+  text-align: center;
+  width: 653px;
+}
+
+.desktop-1 .frame-42 {
+  align-items: center;
+  background-color: var(--fun-blue);
+  border-radius: 10px;
+  display: flex;
+  height: 46px;
+  margin-top: 74px;
+  min-width: 210px;
+  padding: 0 32px;
+}
+
+.desktop-1 .new-to-travelling {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 146px;
+}
+
+.desktop-1 .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 53px;
+  margin-left: 2.0px;
+  margin-top: 100px;
+  min-width: 1142px;
+}
+
+.desktop-1 .featured-destinations {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 53px;
+  min-width: 434px;
+}
+
+.desktop-1 .see-all {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 4px;
+  margin-left: 643px;
+  min-height: 27px;
+  min-width: 65px;
+  text-decoration: underline;
+}
+
+.desktop-1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 37px;
+  min-width: 1140px;
+}
+
+.desktop-1 .overlap-group5 {
+  background-image: url(../img/neuschwanstein-castle-germany@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 555px;
+  position: relative;
+  width: 555px;
+}
+
+.desktop-1 .rectangle-35 {
+  height: 555px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 555px;
+}
+
+.desktop-1 .neuschwanstein-castle-germany {
+  left: 268px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 475px;
+}
+
+.desktop-1 .x5230-mil {
+  left: 450px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 508px;
+}
+
+.desktop-1 .ellipse-3 {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 455px;
+  position: absolute;
+  top: 20px;
+  width: 80px;
+}
+
+.desktop-1 .favorite_border {
+  height: 50px;
+  left: 470px;
+  position: absolute;
+  top: 35px;
+  width: 50px;
+}
+
+.desktop-1 .overlap-group4 {
+  height: 551px;
+  margin-left: 31px;
+  position: relative;
+  width: 554px;
+}
+
+.desktop-1 .port_charlotte-us {
+  height: 551px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 551px;
+}
+
+.desktop-1 .rectangle-29 {
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.desktop-1 .port-charlotte-florida-19516-mil {
+  left: 369px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 477px;
+}
+
+.desktop-1 .ellipse-4 {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 454px;
+  position: absolute;
+  top: 20px;
+  width: 80px;
+}
+
+.desktop-1 .favorite {
+  height: 50px;
+  left: 469px;
+  position: absolute;
+  top: 36px;
+  width: 50px;
+}
+
+.desktop-1 .overlap-group-container-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 31px;
+  min-width: 1140px;
+}
+
+.desktop-1 .overlap-group8 {
+  height: 361px;
+  position: relative;
+  width: 360px;
+}
+
+.desktop-1 .santorini-greece {
+  height: 359px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 359px;
+}
+
+.desktop-1 .rectangle-25 {
+  height: 360px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.desktop-1 .x6303-mil {
+  left: 255px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 314px;
+}
+
+.desktop-1 .santorini-greece-1 {
+  left: 194px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 287px;
+}
+
+.desktop-1 .ellipse-5 {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 260px;
+  position: absolute;
+  top: 20px;
+  width: 80px;
+}
+
+.desktop-1 .favorite_border-1 {
+  height: 50px;
+  left: 275px;
+  position: absolute;
+  top: 35px;
+  width: 50px;
+}
+
+.desktop-1 .overlap-group9 {
+  height: 360px;
+  margin-left: 30px;
+  position: relative;
+  width: 359px;
+}
+
+.desktop-1 .hells_hole-ireland {
+  height: 359px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 359px;
+}
+
+.desktop-1 .rectangle-32 {
+  height: 359px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.desktop-1 .x4286-mil {
+  left: 254px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 313px;
+}
+
+.desktop-1 .hells-hole-ireland {
+  left: 184px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 286px;
+}
+
+.desktop-1 .ellipse-6 {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 259px;
+  position: absolute;
+  top: 20px;
+  width: 80px;
+}
+
+.desktop-1 .favorite_border-2 {
+  height: 50px;
+  left: 274px;
+  position: absolute;
+  top: 35px;
+  width: 50px;
+}
+
+.desktop-1 .overlap-group {
+  background-image: url(../img/machu-picchu-peru@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 361px;
+  margin-left: 30px;
+  position: relative;
+  width: 361px;
+}
+
+.desktop-1 .rectangle-27 {
+  height: 358px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 358px;
+}
+
+.desktop-1 .x10276-mil {
+  left: 236px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 314px;
+}
+
+.desktop-1 .place-2 {
+  left: 183px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 287px;
+  width: 135px;
+}
+
+.desktop-1 .ellipse-7 {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 258px;
+  position: absolute;
+  top: 22px;
+  width: 80px;
+}
+
+.desktop-1 .favorite_border-3 {
+  height: 50px;
+  left: 273px;
+  position: absolute;
+  top: 37px;
+  width: 50px;
+}
+
+.desktop-1 .overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 139px;
+  min-width: 1140px;
+}
+
+.desktop-1 .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-94@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 548px;
+  padding: 24px 49px;
+  width: 653px;
+}
+
+.desktop-1 .maldives {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 53px;
+  min-width: 174px;
+}
+
+.desktop-1 .located-just-south-o {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-top: 27px;
+  min-height: 296px;
+  width: 539px;
+}
+
+.desktop-1 .frame-43 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 46px;
+  margin-left: 19px;
+  margin-top: 77px;
+  min-width: 177px;
+  padding: 0 32px;
+}
+
+.desktop-1 .check-the-trip {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 113px;
+}
+
+.desktop-1 .overlap-group2 {
+  background-image: url(../img/maldives@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 548px;
+  position: relative;
+  width: 487px;
+}
+
+.desktop-1 .rectangle-34 {
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 487px;
+}
+
+.desktop-1 .x9462-mil {
+  left: 382px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 501px;
+}
+
+.desktop-1 .maldives-1 {
+  left: 382px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 473px;
+}
+
+.desktop-1 .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 228px;
+  margin-left: 29.0px;
+  margin-top: 106px;
+  min-width: 649px;
+}
+
+.desktop-1 .lets-do-it {
+  color: #505258;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 25px;
+  letter-spacing: 0;
+  margin-bottom: 11px;
+  min-width: 121px;
+}
+
+.desktop-1 .flex-col-1 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  min-height: 227px;
+  width: 359px;
+}
+
+.desktop-1 .stay-in-touch {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 53px;
+  min-width: 255px;
+}
+
+.desktop-1 .subscribe-to-stay-tu {
+  color: #505258;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 10px;
+  min-height: 81px;
+  text-align: center;
+  width: 359px;
+}
+
+.desktop-1 .subscribe2 {
+  align-items: flex-end;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0px 8px 24px #ffffff26 , 0px 6px 12px #ffffff40;
+  display: flex;
+  height: 43px;
+  margin-top: 40px;
+  min-width: 359px;
+  padding: 10.2px 11.8px;
+}
+
+.desktop-1 .enter-your-email-address {
+  color: #a5a5a6;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  width: 251px;
+}
+
+.desktop-1 .frame-45 {
+  align-items: center;
+  background-color: #ffae30;
+  border-radius: 10px;
+  display: flex;
+  height: 46px;
+  margin-left: 17px;
+  min-width: 142px;
+  padding: 0 32px;
+}
+
+.desktop-1 .subscribe {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 78px;
+}
+
+.desktop-1 .overlap-group6 {
+  height: 726px;
+  margin-top: 162px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .frame-44 {
+  align-items: flex-start;
+  background-color: var(--fun-blue);
+  display: flex;
+  height: 726px;
+  left: 0;
+  padding: 141px 148px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop-1 .venezia-italy {
+  height: 212px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 212px;
+}
+
+.desktop-1 .x2001-2019-all-right {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 11.1px;
+  margin-left: 130px;
+  min-height: 34px;
+  text-align: center;
+  width: 458px;
+}
+
+.desktop-1 .span1 {
+  text-decoration: underline;
+}
+
+.desktop-1 .group-1 {
+  height: 31px;
+  left: 626px;
+  position: absolute;
+  top: 504px;
+  width: 189px;
+}
+
+.desktop-1 .wayfarer-presents {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  position: absolute;
+  top: 89px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.desktop-1 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 586px;
+  min-width: 268px;
+  position: absolute;
+  top: 633px;
+}
+
+.desktop-1 .mailchimp-badge-1-2 {
+  height: 31px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.desktop-1 .mailchimp-badge-2-2 {
+  height: 31px;
+  margin-left: 18px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.desktop-1 .line-3 {
+  height: 282px;
+  left: 666px;
+  position: absolute;
+  top: 99px;
+  width: 3px;
+}
+
+.desktop-1 .company {
+  left: 752px;
+  letter-spacing: 0;
+  line-height: 24.6px;
+  position: absolute;
+  top: 95px;
+  width: 108px;
+}
+
+.desktop-1 .product {
+  left: 929px;
+  letter-spacing: 0;
+  line-height: 24.6px;
+  position: absolute;
+  top: 95px;
+  width: 108px;
+}
+
+.desktop-1 .community {
+  left: 1104px;
+  letter-spacing: 0;
+  line-height: 24.6px;
+  position: absolute;
+  top: 95px;
+  width: 133px;
+}
+
+.desktop-1 .our-story-careers-contact-newsroom {
+  left: 751px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 159px;
+  width: 95px;
+}
+
+.desktop-1 .email-mobile-app-hel {
+  left: 929px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 161px;
+  width: 119px;
+}
+
+.desktop-1 .a-collection-of-shor {
+  left: 401px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 159px;
+  width: 231px;
+}
+
+.desktop-1 .partner-program-expe {
+  left: 1109px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 159px;
+  width: 191px;
+}
+
+.desktop-1 .subscribe-1 {
+  align-self: flex-end;
+  height: 23px;
+  letter-spacing: 0;
+  margin-right: 59px;
+  margin-top: 1140px;
+  width: 91px;
+}
